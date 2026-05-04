@@ -40,9 +40,9 @@ Data Set from Kaggle.com - https://www.kaggle.com/datasets/alessiocorrado99/anim
 ## Unfixed bugs
 
 ## Acknowledgements and References
- Kaggle Aninimal10 Data set
- Lessons 8.2 & 9.1 
- ChatGPT/AI for Debugging Below is what it was used for (also is  markdown in the Corsework2.ipynb)
+ 1. Kaggle Aninimal10 Data set
+ 2. Lessons 8.2 & 9.1 
+ 3. ChatGPT/AI for Debugging Below is what it was used for (also is  markdown in the Corsework2.ipynb)
 1. Importing Data set
 2. 
 3. 
